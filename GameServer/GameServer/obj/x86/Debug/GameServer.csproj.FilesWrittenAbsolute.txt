@@ -1,0 +1,5 @@
+/Users/keithevans/Documents/MMO/GameServer/GameServer/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/keithevans/Documents/MMO/GameServer/GameServer/bin/Debug/GameServer.exe.mdb
+/Users/keithevans/Documents/MMO/GameServer/GameServer/bin/Debug/GameServer.exe
+/Users/keithevans/Documents/MMO/GameServer/GameServer/obj/x86/Debug/GameServer.exe
+/Users/keithevans/Documents/MMO/GameServer/GameServer/obj/x86/Debug/GameServer.exe.mdb

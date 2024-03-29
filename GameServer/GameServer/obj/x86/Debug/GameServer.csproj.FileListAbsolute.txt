@@ -1,0 +1,6 @@
+D:\Files\Program Files\Unity\Game Files\Client\GameServer\GameServer\bin\Debug\GameServer.exe
+D:\Files\Program Files\Unity\Game Files\Client\GameServer\GameServer\bin\Debug\GameServer.pdb
+D:\Files\Program Files\Unity\Game Files\Client\GameServer\GameServer\obj\x86\Debug\GameServer.csprojAssemblyReference.cache
+D:\Files\Program Files\Unity\Game Files\Client\GameServer\GameServer\obj\x86\Debug\GameServer.csproj.CoreCompileInputs.cache
+D:\Files\Program Files\Unity\Game Files\Client\GameServer\GameServer\obj\x86\Debug\GameServer.exe
+D:\Files\Program Files\Unity\Game Files\Client\GameServer\GameServer\obj\x86\Debug\GameServer.pdb
